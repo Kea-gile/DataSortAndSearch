@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Methods
+comment1.params=
+comment1.target=void\ readData()
+comment2.params=
+comment2.target=void\ sortArray()
+comment3.params=search_name
+comment3.target=int\ searchName(java.lang.String)
+comment4.params=
+comment4.target=Friend[]\ getArray()
+comment5.params=
+comment5.target=int\ getCount()
+numComments=6

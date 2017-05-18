@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Friend
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Friend\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ age\ cell
+comment1.target=Friend(java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getAge()
+comment4.params=
+comment4.target=java.lang.String\ getCell()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
